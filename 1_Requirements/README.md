@@ -53,7 +53,7 @@ The windshield wipers remove rain and snow from the windshield, while the headli
 Mark Anderson invented on 1902
 
 
-●	**High Level Requirements**
+## High Level Requirements
 | ID | Description | 
 | ----- | ----- |
 | HLR1 | Rain and Humidity sensor - When raining or humidity occurs on windshield the wipers turns on automatically  | 
@@ -61,7 +61,7 @@ Mark Anderson invented on 1902
 | HLR3 | Speed control - High, Medium, Low |
 | HLR4 | Dry mode - front and back wiper system |
 
-●	**Low level Requirements**
+## Low level Requirements
 | ID | Description | 
 | ----- | ----- |
 | LLR1 | Length of wipers  | 
