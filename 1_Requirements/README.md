@@ -1,4 +1,7 @@
-# INTRODUCTION
+# Requirements:
+## Wiper Control System:
+
+## INTRODUCTION
 
 The operational speed of a wiper is controlled by a wiper speed control system in accordance with frequencies. The pulse signal is digitally processed to provide a control signal. A wiper driver circuit receives the control signal and adjusts the operational speed or timing in line with it. And the main purpose of the wiper system is to clean the windscreen sufficiently to provide suitable visibility at all times. 
 .
@@ -48,4 +51,19 @@ The windshield wipers remove rain and snow from the windshield, while the headli
 
 ## WHO
 Mark Anderson invented on 1902
+
+
+## High Level Requirements
+| ID | Description | 
+| ----- | ----- |
+| HLR1 | Rain and Humidity sensor - When raining or humidity occurs on windshield the wipers turns on automatically  | 
+| HLR2 | Water in-built wipers makes cleaning faster and sharper windshield  |
+| HLR3 | Speed control - High, Medium, Low |
+| HLR4 | Dry mode - front and back wiper system |
+
+## Low level Requirements
+| ID | Description | 
+| ----- | ----- |
+| LLR1 | Length of wipers  | 
+| LLR2 | Direction of wipers  |
 
