@@ -13,3 +13,27 @@ The operational speed of a wiper is controlled by a wiper speed control system i
  
 * Codiga - Static analysis
 ![Code Grade](https://api.codiga.io/project/33520/status/svg)
+
+## Folder Structure
+|Folder             | Description |
+|-------------------| -----------------------------------------|
+| `0_Abstract`   | Research method and design, the major findings, and the conclusions reached|
+| `1_Requirements`   | Documents detailing requirements and research|
+| `2_Desgin`         | Documents specifying design details|
+| `3_Implementation` | All code and documentation|
+| `4_TestCases`      | Documents with test plans and procedures|
+| `5_Report`       | Overall report of the Project Implementation |
+| `6_Output`       | Output of the project implementaed |
+
+
+## Contributors List and Summary
+|LOI no. |  Name   |    Features    |
+|-------|---------|----------------|
+| `12079` | Architha K V | control signal, clean the windscreen | 
+
+
+## Challenges Faced and How Was It Overcome
+
+1. Debugging
+2. Makefiles
+
