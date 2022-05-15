@@ -5,4 +5,6 @@ The operational speed of a wiper is controlled by a wiper speed control system i
 ## Badges
 
 * Codacy - Static code analysis
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/19da301344a34d71b88af20c06094d23)](https://www.codacy.com/gh/ArchithaKV/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArchithaKV/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/19da301344a34d71b88af20c06094d23)](https://www.codacy.com/gh/ArchithaKV/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArchithaKV/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
+
+* Codiga - Static analysis
