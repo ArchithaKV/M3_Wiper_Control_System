@@ -2,6 +2,7 @@
 /**
   ******************************************************************************
   * @file    stm32f4xx_it.h
+  * @author         : Architha K V
   * @brief   This file contains the headers of the interrupt handlers.
   ******************************************************************************
   * @attention
