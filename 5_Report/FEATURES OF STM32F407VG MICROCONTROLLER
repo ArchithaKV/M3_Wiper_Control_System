@@ -1,0 +1,9 @@
+FEATURES OF STM32F407VG MICROCONTROLLER
+
+In a LQFP100 package, the STM32F407VGT6 microcontroller has a 32-bit ARM Cortex-M4 with FPU core, 1-Mbyte Flash memory, and 192-Kbyte RAM.
+On-board ST-LINK/V2 or ST-LINK/V2-A on STM32F4 DISCOVERY (old reference) or STM32F407G-DISC1 (new order code)
+USB ST-LINK with three separate interfaces and re-enumeration capability.
+Virtual Com port Debug port (with new order code only)
+Large-scale storage (with new order code only)
+Board power is supplied through USB or an external 5 V supply source.
+3 V and 5 V external application power supply
