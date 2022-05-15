@@ -4,15 +4,14 @@
 ## INTRODUCTION
 The use of transportation vehicles has expanded dramatically over the world in recent years. As a result, it is critical to strengthen the safety features of automobiles. It is critical to conduct a survey and study to detail the automatic operated wiper in order to achieve and meet the above notion. Windshield Wipers are essential for ensuring the driver's safety while driving. As a result, the goal is to build a system that controls an automatic operated wiper that is controlled by an electronic sensor. We explore numerous sorts of sensors used in wiper automation in the research paper.
 
-The operational speed of a wiper is controlled by a wiper speed control system in accordance with frequencies. The pulse signal is digitally processed to provide a control signal. A wiper driver circuit receives the control signal and adjusts the operational speed or timing in line with it. And the main purpose of the wiper system is to clean the windscreen sufficiently to provide suitable visibility at all times. 
+# SWOT ANALYSIS
 
-# Swot Analysis
-## Advantages
+## ADVANTAGES
  * Provide clear vision to driver in rainy season
  * Help to remove dust and water from wind shield
  * Easy to operate
  
-## Disadvantages 
+## DISADVANTAGES
  * Regular maintaince required
  * changing of wiper quarterly
  * Not fully automatic
